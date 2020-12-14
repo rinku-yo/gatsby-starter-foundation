@@ -75,7 +75,7 @@ gatsby new gatsby-starter-foundation https://github.com/stackrole/gatsby-starter
 ### Start developing
 Navigate into your new site’s directory and start it up.
 ```shell
-cd my-hello-world-starter/
+cd gatsby-starter-foundation
 gatsby develop
 ```
 
